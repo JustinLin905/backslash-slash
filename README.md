@@ -2,7 +2,7 @@
  
 *Backslash, Slash* is a 3D Game developed in `Unity URP` for the **[48+8 2021](https://itch.io/jam/48-8-jam-2)** Game Jam. Players perform melee combos by pressing keys in unique sequences to grind out points, progress through levels, and upgrade their gear. The main goal is to chain together combos to deal massive damage and play satisfying animations!
  
-If you simply want to try the game for yourself, visit our [Itch.io](https://itch.io/jam/48-8-jam-2) page. Here, you can easily download the game and play within minutes.
+If you simply want to try the game for yourself, visit our [Itch.io](https://justinlin905.itch.io/backslash-slash) page. Here, you can easily download the game and play within minutes.
  
 For users looking to edit the project code, you will require a `Unity 2019.4.13` installation. Choose “Download ZIP” and extract the folder, then choose “Add” in Unity Hub. Select the “backslash-slash” folder as the project folder. **Please note that certain weapon models in this repository have been replaced with alternatives** because their license prohibits open-source sharing. The project hosted here is therefore slightly different from the game hosted on Itch.io.
  
